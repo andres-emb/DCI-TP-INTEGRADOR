@@ -9,7 +9,7 @@
 		(date "2026-11-16")
 		(rev "1.0")
 		(company "FI-UBA - Especialización en Sistemas Embebidos")
-		(comment 1 "License: GPL")
+		(comment 1 "License: GPL-3.0")
 		(comment 2 "Author: Andres Urian Florez")
 		(comment 3 "Document Type: Circuit Diagram")
 		(comment 4 "Document Id: AUD-SHIELD-001")
@@ -3226,7 +3226,7 @@
 		(uuid "46348a98-a270-4c0a-a64f-617acff57bc3")
 	)
 	(junction
-		(at 33.02 171.45)
+		(at 39.37 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "56ff7321-9b69-4fa4-a3d2-6af74e4790f8")
@@ -3274,7 +3274,7 @@
 		(uuid "cf74fae6-78f6-4ea1-a025-183d8f1f7037")
 	)
 	(junction
-		(at 33.02 176.53)
+		(at 39.37 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe5fcf9e-a744-4011-8165-afac5aad155c")
@@ -3284,7 +3284,7 @@
 		(uuid "0a10f271-5c52-48cf-9842-464db4a4dcd5")
 	)
 	(no_connect
-		(at 36.83 179.07)
+		(at 43.18 179.07)
 		(uuid "129f1905-cf1d-44da-8822-e25b3ff77f46")
 	)
 	(no_connect
@@ -3308,7 +3308,7 @@
 		(uuid "32efdd2b-63f2-4135-b778-99a35436452c")
 	)
 	(no_connect
-		(at 36.83 163.83)
+		(at 43.18 163.83)
 		(uuid "336fd023-ac89-4a83-abff-7e1d27caca7a")
 	)
 	(no_connect
@@ -3316,7 +3316,7 @@
 		(uuid "3899de7e-5a29-48a1-99ca-adfbbb966f86")
 	)
 	(no_connect
-		(at 36.83 161.29)
+		(at 43.18 161.29)
 		(uuid "4733ab43-d127-4796-993c-2cf8672cb26b")
 	)
 	(no_connect
@@ -3324,11 +3324,11 @@
 		(uuid "59c6e107-5758-4356-b242-d99c2bd328c0")
 	)
 	(no_connect
-		(at 36.83 166.37)
+		(at 43.18 166.37)
 		(uuid "667dc6f5-3833-457a-a3ae-4a07ac05db43")
 	)
 	(no_connect
-		(at 36.83 168.91)
+		(at 43.18 168.91)
 		(uuid "88ebde8d-c08f-43c2-b628-39ccb6e010f7")
 	)
 	(no_connect
@@ -3491,7 +3491,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 173.99) (xy 36.83 173.99)
+			(xy 39.37 173.99) (xy 43.18 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3541,7 +3541,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 171.45) (xy 36.83 171.45)
+			(xy 36.83 171.45) (xy 43.18 171.45)
 		)
 		(stroke
 			(width 0)
@@ -3641,7 +3641,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 166.37) (xy 30.48 166.37)
+			(xy 39.37 166.37) (xy 36.83 166.37)
 		)
 		(stroke
 			(width 0)
@@ -3761,7 +3761,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 166.37) (xy 33.02 171.45)
+			(xy 39.37 166.37) (xy 39.37 171.45)
 		)
 		(stroke
 			(width 0)
@@ -3778,16 +3778,6 @@
 			(type default)
 		)
 		(uuid "7c3ef589-8fcc-46d1-b5aa-ca58b34dd1d8")
-	)
-	(wire
-		(pts
-			(xy 125.73 167.64) (xy 125.73 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e0ee9d2-d590-42d2-87ed-75e6abc71c94")
 	)
 	(wire
 		(pts
@@ -3821,7 +3811,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 176.53) (xy 33.02 180.34)
+			(xy 39.37 176.53) (xy 39.37 180.34)
 		)
 		(stroke
 			(width 0)
@@ -3831,7 +3821,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 173.99) (xy 33.02 176.53)
+			(xy 39.37 173.99) (xy 39.37 176.53)
 		)
 		(stroke
 			(width 0)
@@ -3941,7 +3931,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 176.53) (xy 30.48 176.53)
+			(xy 39.37 176.53) (xy 36.83 176.53)
 		)
 		(stroke
 			(width 0)
@@ -4091,7 +4081,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 180.34) (xy 30.48 180.34)
+			(xy 39.37 180.34) (xy 36.83 180.34)
 		)
 		(stroke
 			(width 0)
@@ -4131,7 +4121,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 176.53) (xy 36.83 176.53)
+			(xy 39.37 176.53) (xy 43.18 176.53)
 		)
 		(stroke
 			(width 0)
@@ -4645,7 +4635,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 30.48 180.34 90)
+		(at 36.83 180.34 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4655,7 +4645,7 @@
 		(dnp no)
 		(uuid "08b5f113-7c96-4452-a1bd-fe441de2e765")
 		(property "Reference" "#FLG02"
-			(at 28.575 180.34 0)
+			(at 34.925 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4666,7 +4656,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 22.86 180.34 90)
+			(at 29.21 180.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4676,7 +4666,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 180.34 0)
+			(at 36.83 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4687,7 +4677,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 180.34 0)
+			(at 36.83 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4698,7 +4688,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 30.48 180.34 0)
+			(at 36.83 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5523,7 +5513,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 30.48 176.53 270)
+		(at 36.83 176.53 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5533,7 +5523,7 @@
 		(dnp no)
 		(uuid "30d54910-038b-421a-b243-ad9839213ef9")
 		(property "Reference" "#PWR012"
-			(at 24.13 176.53 0)
+			(at 30.48 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5544,7 +5534,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 25.4 176.53 90)
+			(at 31.75 176.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5554,7 +5544,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 176.53 0)
+			(at 36.83 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5565,7 +5555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 176.53 0)
+			(at 36.83 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5576,7 +5566,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 30.48 176.53 0)
+			(at 36.83 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6001,7 +5991,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 30.48 171.45 90)
+		(at 36.83 171.45 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6012,7 +6002,7 @@
 		(fields_autoplaced yes)
 		(uuid "3bf0c9ba-e45d-48b6-bfc2-e15f55157bdf")
 		(property "Reference" "#PWR011"
-			(at 34.29 171.45 0)
+			(at 40.64 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6023,7 +6013,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 26.67 171.4499 90)
+			(at 33.02 171.4499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6034,7 +6024,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 171.45 0)
+			(at 36.83 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6045,7 +6035,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 171.45 0)
+			(at 36.83 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6056,7 +6046,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 30.48 171.45 0)
+			(at 36.83 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6574,7 +6564,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 41.91 168.91 0)
+		(at 48.26 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6585,7 +6575,7 @@
 		(fields_autoplaced yes)
 		(uuid "5b0230b4-bfd2-429b-b2eb-e3c4fe14bf61")
 		(property "Reference" "J1"
-			(at 44.45 168.9099 0)
+			(at 50.8 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6596,7 +6586,7 @@
 			)
 		)
 		(property "Value" "POWER"
-			(at 44.45 171.4499 0)
+			(at 50.8 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6607,7 +6597,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
-			(at 41.91 168.91 0)
+			(at 48.26 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6618,7 +6608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 168.91 0)
+			(at 48.26 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6629,7 +6619,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 41.91 168.91 0)
+			(at 48.26 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8067,7 +8057,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 170.18 0)
+		(at 125.73 167.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8078,7 +8068,7 @@
 		(fields_autoplaced yes)
 		(uuid "986d22e9-6cba-4093-9e47-7b405541fcc8")
 		(property "Reference" "#PWR013"
-			(at 125.73 176.53 0)
+			(at 132.08 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8089,17 +8079,18 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 175.26 0)
+			(at 129.54 167.6399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 170.18 0)
+			(at 125.73 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8110,7 +8101,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 170.18 0)
+			(at 125.73 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8121,7 +8112,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 170.18 0)
+			(at 125.73 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8303,7 +8294,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 30.48 166.37 90)
+		(at 36.83 166.37 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8313,7 +8304,7 @@
 		(dnp no)
 		(uuid "a9003788-3951-4c2a-8be6-245848c03f97")
 		(property "Reference" "#FLG01"
-			(at 28.575 166.37 0)
+			(at 34.925 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8324,7 +8315,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 22.86 166.37 90)
+			(at 29.21 166.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8334,7 +8325,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 166.37 0)
+			(at 36.83 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8345,7 +8336,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 166.37 0)
+			(at 36.83 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8356,7 +8347,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 30.48 166.37 0)
+			(at 36.83 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
