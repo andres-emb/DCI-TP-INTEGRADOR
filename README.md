@@ -2,7 +2,7 @@
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
 * Autor: Andres Urian Florez
-* Título corto del trabajo:  I2S Stereo Audio Amplifier Shield - Copy
+* Título corto del trabajo:  I2S Stereo Audio Amplifier Shield - Replica
 * Descripción:  Módulo de audio estéreo basado en dos amplificadores MAX98357A, adaptado como shield compatible con la placa nRF7002 DK y conectores tipo Arduino Uno, con salida a parlantes pasivos mediante jack de 6.5 mm, indicadores LED de alimentación por canal y selector de ganancia configurable entre 3, 9 y 15 dB.
 * Cursada: OCT-NOV-DIC 2026
 
